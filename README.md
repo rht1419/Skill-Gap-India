@@ -1,0 +1,2 @@
+It is a Fun Project we built using Databricks tools.
+Skill Gap India is a data intelligence platform built on Databricks that ingests 5000 real job postings, processes them through a Bronze→Silver→Gold Delta Lake pipeline using Apache Spark, and calculates skill-wise Gap Scores for Indian graduates. A FAISS vector search recommender maps each gap to free SWAYAM/NPTEL courses. Tracked via MLflow. Built to fix India's employability crisis at scale.
